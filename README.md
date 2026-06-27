@@ -41,9 +41,9 @@ The historical evacuation protocol heavily favored female passengers across the 
 *   **The Ultimate Divide:** Even with the class drop, a third-class female passenger ($50.0\%$) had significantly higher survival odds than a first-class male passenger ($36.9\%$).
 *   **Male Survival Rates:** Survival rates for men remained uniformly grim across the board, providing only marginal safety benefits even in higher classes.
 
-![By Gender](Survival Rate by Class and Gender - fig.png)
+![By Gender](SurvivalRatebyClassandGenderfig.png)
 
-![Survival Rate](Survival Rate Heatmap - fig.png)
+![Survival Rate](SurvivalRateHeatmapfig.png)
 
 ---
 
